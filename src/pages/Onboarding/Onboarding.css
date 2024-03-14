@@ -21,7 +21,7 @@
 .onboarding img:nth-of-type(2) {
   width: 100%;
   position: relative;
-  margin: 125px 0;
+  margin: 3rem;
   z-index: 2;
 }
 .onboarding img:nth-of-type(3) {
@@ -45,21 +45,24 @@
   color: var(--Color5);
   margin-top: 2.25rem;
   margin-bottom: 0.625rem;
+  padding: 0 1rem;
 }
+
 .onboarding__allRecipe p {
+  width: 30ch;
   line-height: 145%;
-  font-weight: 100;
-  margin-bottom: 2.625rem;
+  font-weight: 200;
+  margin-bottom: 1.5rem;
   padding-inline: 2rem;
 }
 
 .onboarding__allRecipe a {
-  padding: 1.25rem 7.5rem;
+  padding: 1.25rem 2rem;
   border-radius: 1.25rem;
   background-color: var(--Color5);
   text-decoration: none;
   color: var(--Color10);
-  margin-bottom: 2.625rem;
+  margin-bottom: 2rem;
   font-weight: bold;
   cursor: pointer;
 }
