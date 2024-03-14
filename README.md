@@ -24,10 +24,8 @@
 
 ## Links
 
-- [See live site here](https://tasty-react-sigma.vercel.app/)
-- [GitHub Repository](https://github.com/thomaserdmenger/Tasty-React)
-- [GitHub Author](https://github.com/thomaserdmenger)
-- [LinkedIn Author](https://www.linkedin.com/in/thomaserdmenger/)
+- [See live site here](https://tasty-app-nine.vercel.app/)
+- [GitHub Repository](https://github.com/MiaMarmeladenbrot/Tasty-App)
 
 ## Screenshot-Image
 
