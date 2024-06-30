@@ -10,7 +10,7 @@
 ## Purpose of the website
 
 - Create a recipe app
-- User can search recipes by country and category
+- User can search recipes by country or category
 - User can search for recipes by name
 - User receives detailed page of the recipe with ingredients, quantities and instructions
 - User receives random recipe suggestions
